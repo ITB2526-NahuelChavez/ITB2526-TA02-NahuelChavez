@@ -8,4 +8,4 @@ Descripció: Exemple dels apunts
 edat=int(input("Quina edat tens? "))
 if edat>=18:
     print("Ets major d'edat")
-print("Programa Finalitzat")
+print("Programa Finalitzat, ets major d'edat")
